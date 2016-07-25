@@ -17,7 +17,7 @@ import (
 )
 
 const (
-	MAX_INT      = 2147483647
+	MAX_INT      = 18446744073709551615
 	MILLER_RABIN = 20 //https://golang.org/pkg/math/big/#Int.ProbablyPrime
 )
 
